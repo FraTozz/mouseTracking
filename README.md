@@ -54,7 +54,7 @@ Based on the distances of some body parts from the two objects, I implemented tw
 
 ### Random forest classifier
 
-I trained a **custom random forest classifier** to predict whether the mouse is exploring or not an object (bool variable) based on the distances of its body parts from the object centroid.
+I trained a **custom random forest classifier** to predict whether the mouse is exploring or not an object (bool variable) based on the distances of its body parts from the object radius.
 
 This approach has the **advantage** that takes into consideration the actual posture of an animal and its gaze direction.
 
