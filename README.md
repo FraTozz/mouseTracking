@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/39329654/190141860-e2b390ab-eaeb-4f9a-b0bd-56c53eed8ffd.png)
 
-This repository contains a collection of code to analyze behavioral in mice.
+This repository contains a collection of code to analyze behavior in mice.
 
 I used this pipeline to analyze and automatically score open field and novel object-place-context recognition test in mice in order to test **episodic memory**.
 
